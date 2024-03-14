@@ -1,0 +1,2 @@
+1. Absolute Pfade entfernen
+2. Update Button macht noch, nicht was er soll.
